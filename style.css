@@ -178,6 +178,10 @@ nav {
   padding: 10px;
 }
 
+section.chart-container h2 {
+  padding: 5px 5px 20px 5px;
+}
+
 section img {
   max-width: 100%;
   height: auto;
