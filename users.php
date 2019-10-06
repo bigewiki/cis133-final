@@ -6,7 +6,7 @@
       <?php include('includes/sidebar.inc.html'); ?>
       <div id="main">
         <?php include('includes/nav.inc.html'); ?>
-        <!-- <?php include('SOMEFILE.inc.html'); ?> -->
+        <?php include('includes/users.inc.html'); ?>
         <?php include('includes/footer.inc.html'); ?>
       </div>
     </div>
