@@ -271,7 +271,8 @@ table.admin-table thead th {
   padding: 10px;
 }
 
-table.admin-table tbody td {
+table.admin-table tbody td,
+table.admin-table tbody th {
   border: 1px solid black;
   padding: 2px 5px 2px 5px;
 }
